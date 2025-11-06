@@ -1,5 +1,20 @@
-# Vue 3 + Vite
+# Color Generator
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple Vue 3 + Tailwind project to generate random HEX colors.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+- Generates random colors
+- Responsive layout with Tailwind CSS
+- Live preview of color
+- Copy color code to clipboard (coming soon)
+
+## Technologies
+- Vue 3
+- Vite
+- Tailwind CSS
+
+## Setup
+
+```bash
+npm install
+npm run dev
